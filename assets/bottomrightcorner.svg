@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50.4 151.2" style="enable-background:new 0 0 50.4 151.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+</style>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-38.9748" y1="447.8581" x2="-19.8672" y2="447.8581" gradientTransform="matrix(4.489700e-11 -1 1 4.489700e-11 -408.3346 112.2343)">
+		<stop  offset="0" style="stop-color:#1A2A55"/>
+		<stop  offset="9.874782e-02" style="stop-color:#183164"/>
+		<stop  offset="0.3063" style="stop-color:#153B7D"/>
+		<stop  offset="0.5215" style="stop-color:#134390"/>
+		<stop  offset="0.7471" style="stop-color:#11489A"/>
+		<stop  offset="1" style="stop-color:#11499E"/>
+	</linearGradient>
+	<polygon class="st0" points="42.3,151.2 42.3,132.1 36.7,138 36.7,151.2 	"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-38.9748" y1="454.6772" x2="4.4628" y2="454.6772" gradientTransform="matrix(4.489700e-11 -1 1 4.489700e-11 -408.3346 112.2343)">
+		<stop  offset="0" style="stop-color:#1A2A55"/>
+		<stop  offset="9.874782e-02" style="stop-color:#183164"/>
+		<stop  offset="0.3063" style="stop-color:#153B7D"/>
+		<stop  offset="0.5215" style="stop-color:#134390"/>
+		<stop  offset="0.7471" style="stop-color:#11489A"/>
+		<stop  offset="1" style="stop-color:#11499E"/>
+	</linearGradient>
+	<polygon class="st1" points="50.5,151.2 50.5,107.8 42.2,116.4 42.2,151.2 	"/>
+</g>
+</svg>

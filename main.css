@@ -1,0 +1,87 @@
+body{
+    background-color: rgb(138, 194, 233);
+}
+.upperleftcorner{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+}
+.upperrightcorner{
+    position: fixed;
+    top: 0px;
+    right: 0px;
+}
+.bottomrightcorner{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+}
+.bottomleftcorner{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+}
+.front-card{
+    width:350px;
+    height: 612px;
+    /*what centers the elements*/
+    margin: 0 auto;
+    background-image:url("assets/businessfront-card.svg");
+    /*how far apart the cards are*/
+    margin-top: 60px;
+    margin-bottom: 100px;
+    box-shadow: 10px 10px 20px black;
+}
+.logo{
+    padding-top: 110px;
+    margin: 0 auto;
+}
+.back-card{
+    width:350px;
+    height: 612px;
+    margin: 0 auto;
+    margin-bottom: 70px;
+    background-image:url("assets/businessback-card.svg");
+    box-shadow: 10px 10px 20px black;
+}
+h1{
+    font-family: 'Comfortaa', cursive;
+    font-size: 34px;
+    color: white;
+    padding-top: 225px;
+    padding-left: 55px;
+    padding-bottom: 25px;
+    margin: 0 auto;
+}
+h2{
+    font-family: 'Comfortaa', cursive;
+    font-weight: 500;
+    font-size: 20px;
+    color: white;
+    padding-left: 55px;
+    line-height: 20px;
+}
+.icon-container{
+    /*what activates the functionality of the css grid*/
+    display:grid;
+    width: 60px;
+    grid-gap: 14px;
+    margin-top: 130px;
+    margin-left: 65px;
+    grid-template-columns: 65px 65px 65px; 
+    grid-template-rows: 60px;
+    grid-template-areas: 
+    "a" "b" "c";
+    
+}
+
+svg:hover{
+    fill: #eb008b;
+    -webkit-animation: pulse 1s;
+    animation: pulse 1s;
+}
+
+.logo:hover {
+    -webkit-animation: pulse 1s;
+    animation: pulse 1s;
+}
